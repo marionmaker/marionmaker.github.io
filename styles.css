@@ -9,12 +9,7 @@ section h2{
     margin: 20px 0;
     width: 90%;
 }
-.experiences{
-    display: flex;
-    flex-flow: column wrap;
-}
 h3 {
-    color: darkred;
+    color:darkred
     font-size: 1.2rem;
-    padding-left: 40px;
 }
