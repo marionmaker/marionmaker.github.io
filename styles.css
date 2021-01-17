@@ -1,3 +1,20 @@
 *{
     font-family: Avenir, sans-serif;
 }
+p{
+    font-size: 1em;
+    line-height: 1.5em;
+}
+section h2{
+    margin: 20px 0;
+    width: 90%;
+}
+.experiences{
+    display: flex;
+    flex-flow: column wrap;
+}
+h3 {
+    color: darkred;
+    font-size: 1.2rem;
+    padding-left: 40px;
+}
